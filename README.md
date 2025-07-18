@@ -18,10 +18,13 @@ URL: https://keisukekondokk.github.io/
 
 <pre>
 .
-├── stata_person_trip //Replication for Person Trip Survey
+├── stata_person_trip // Replication for Person Trip Survey
+├── stata_mobile_phone // Replication for Mobile Spatial Statistics
 ├── LICENSE
 └── README.md
 </pre>
+
+The original data for mobile phone data cannot be not redistributed. However, estimation results are available. 
 
 
 ## Terms of Use
@@ -59,6 +62,10 @@ URL: https://www.e-stat.go.jp/
 Kondo, K. (2023) "Measuring the Attractiveness of Trip Destinations: A Study of the Kansai Region of Japan," RIEB Discussion Paper Series No.2023-07  
 URL: https://www.rieb.kobe-u.ac.jp/academic/ra/dp/English/dp2023-07.html
 
+Kondo, K. (2024) "A Proposal for a Regional Attractiveness Index Based on Human Flow Data," RIETI Policy Discussion Paper No.24-P-005  
+URL: https://www.rieti.go.jp/jp/publications/pdp/24p005.pdf
+
 ## Update History
 
+July 19, 2025: Replication Codes and Data for Mobile Phone Data Uploaded
 April 4, 2024: Released on GitHub  
