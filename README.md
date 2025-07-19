@@ -1,11 +1,12 @@
-# Measuring the attractiveness of trip destinations: A study of the Kansai region of Japan (Kondo, K.)
+# Measuring the attractiveness of trip destinations based on human mobility data (Kondo, K.)
 
-This GitHub repository provides code and data used in Kondo (2023) for replication.
+This GitHub repository provides code and data used in Kondo (2023) and Kondo (2024) for replication.
 
 The original data used in this study are publicly available, but restrictions apply to redistributing a part of the data so as not to infringe on third parties' rights. Please follow the instructions to download the mobile phone data from RESAS API on your own.
 
-The R code for the web application is available on my GitHub:  
-URL: https://github.com/keisukekondokk/regional-attractiveness-kansai
+The R code for the web applications is available on my GitHub:  
+URL: https://github.com/keisukekondokk/regional-attractiveness-kansai  
+URL: https://keisuke-kondo.shinyapps.io/regional-attractiveness-japan-en
 
 ## Author
 Keisuke Kondo  
@@ -24,7 +25,7 @@ URL: https://keisukekondokk.github.io/
 └── README.md
 </pre>
 
-The original data for mobile phone data cannot be not redistributed. However, estimation results are available. 
+The original data for mobile phone data cannot be not redistributed. However, estimation results are available. See LOG files. 
 
 
 ## Terms of Use
@@ -60,12 +61,12 @@ URL: https://www.e-stat.go.jp/
 ## Refereence
 
 Kondo, K. (2023) "Measuring the Attractiveness of Trip Destinations: A Study of the Kansai Region of Japan," RIEB Discussion Paper Series No.2023-07  
-URL: https://www.rieb.kobe-u.ac.jp/academic/ra/dp/English/dp2023-07.html
+URL: https://www.rieb.kobe-u.ac.jp/academic/ra/dp/English/dp2023-07.html  
 
 Kondo, K. (2024) "A Proposal for a Regional Attractiveness Index Based on Human Flow Data," RIETI Policy Discussion Paper No.24-P-005  
-URL: https://www.rieti.go.jp/jp/publications/pdp/24p005.pdf
+URL: https://www.rieti.go.jp/jp/publications/pdp/24p005.pdf  
 
 ## Update History
 
-July 19, 2025: Replication Codes and Data for Mobile Phone Data Uploaded
+July 19, 2025: Replication Codes and Data for Mobile Phone Data Uploaded  
 April 4, 2024: Released on GitHub  
